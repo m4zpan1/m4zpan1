@@ -2,7 +2,7 @@
 <h3 align="center">🛡️ Informático | 🥷 Ciberseguridad </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Maalfer&label=Visitas+al+perfil&color=f0db4f&style=flat-square" alt="Contador de visitas"/>
+  <img src="https://komarev.com/ghpvc/?username=Maalfer&label=Visitas+al+perfil&color=#87CEEB&style=flat-square" alt="Contador de visitas"/>
   <img src="https://img.shields.io/github/followers/Maalfer?label=Seguidores&style=flat-square&color=f0db4f" alt="Seguidores"/>
   <img src="https://img.shields.io/github/stars/Maalfer?label=Estrellas&style=flat-square&color=f0db4f" alt="Estrellas"/>
 </p>
