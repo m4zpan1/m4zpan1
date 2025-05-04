@@ -42,7 +42,9 @@ Soy estudiante de informática con una fuerte orientación hacia la cibersegurid
 ### 🛠️ Algunas Tecnologías que domino
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,docker,linux,wordpress,bash,github,git,vscode,mysql,mongodb,kali" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,cs,js,css,html,github,kali,py,redhat,vscode" />
+  </a>
 </p>
 
 ---
