@@ -43,7 +43,7 @@ Soy estudiante de informática con una fuerte orientación hacia la cibersegurid
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cs,js,css,html,github,kali,py,redhat,vscode" />
+    <img src="https://skillicons.dev/icons?i=vscode,js,css,html,cs,py,redhat,kali,github" />
   </a>
 </p>
 
@@ -63,15 +63,15 @@ Soy estudiante de informática con una fuerte orientación hacia la cibersegurid
 ### 🌐 Contacto y redes
 
 <p align="center">
-  <a href="https://github.com/Maalfer" target="_blank" title="GitHub">
+  <a href="#" target="_blank" title="GitHub">
     <img src="https://img.icons8.com/ios-glyphs/50/f0db4f/github.png" width="40" height="40" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/maalfer1/" target="_blank" title="LinkedIn">
+  <a href="#" target="_blank" title="LinkedIn">
     <img src="https://img.icons8.com/ios-filled/50/f0db4f/linkedin.png" width="40" height="40" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/elpinguinodemario/" target="_blank" title="Instagram">
+  <a href="#" target="_blank" title="Instagram">
     <img src="https://img.icons8.com/ios-filled/50/f0db4f/instagram-new.png" width="40" height="40" alt="Instagram"/>
   </a>
 </p>
