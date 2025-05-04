@@ -1,4 +1,4 @@
-<h1 align="center">🐼 Dan Salazar Palomino</h1>
+<h1 align="center">:skull: Dan Salazar Palomino</h1>
 <h3 align="center">🛡️ Informático | 🥷 Ciberseguridad </h3>
 
 <p align="center">
