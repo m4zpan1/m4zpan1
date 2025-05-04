@@ -52,9 +52,9 @@ Soy estudiante de informática con una fuerte orientación hacia la cibersegurid
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maalfer&show_icons=true&theme=dark&locale=es&title_color=f0db4f&text_color=ffffff&icon_color=f0db4f&border_radius=10" alt="Estadísticas GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=m4zpan1&show_icons=true&theme=dark&locale=es&title_color=00bfff&text_color=ffffff&icon_color=00bfff&border_radius=10" alt="Estadísticas GitHub" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maalfer&layout=compact&theme=dark&locale=es&title_color=f0db4f&text_color=ffffff" alt="Lenguajes más usados"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maalfer&layout=compact&theme=dark&locale=es&title_color=00bfff&text_color=ffffff" alt="Lenguajes más usados"/>
 </p>
 
 
@@ -64,14 +64,14 @@ Soy estudiante de informática con una fuerte orientación hacia la cibersegurid
 
 <p align="center">
   <a href="#" target="_blank" title="GitHub">
-    <img src="https://img.icons8.com/ios-glyphs/50/f0db4f/github.png" width="40" height="40" alt="GitHub"/>
+    <img src="https://img.icons8.com/ios-glyphs/50/00bfff/github.png" width="40" height="40" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#" target="_blank" title="LinkedIn">
-    <img src="https://img.icons8.com/ios-filled/50/f0db4f/linkedin.png" width="40" height="40" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/ios-filled/50/00bfff/linkedin.png" width="40" height="40" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#" target="_blank" title="Instagram">
-    <img src="https://img.icons8.com/ios-filled/50/f0db4f/instagram-new.png" width="40" height="40" alt="Instagram"/>
+    <img src="https://img.icons8.com/ios-filled/50/00bfff/instagram-new.png" width="40" height="40" alt="Instagram"/>
   </a>
 </p>
