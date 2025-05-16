@@ -29,13 +29,9 @@ Soy estudiante de informática con una fuerte orientación hacia la cibersegurid
 
 ---
 
-### 🔧 Proyectos destacados
+### 🔧 Laboratorios Resueltos
 
-- 🔹 [dockerlabs.es](https://dockerlabs.es) – Laboratorios vulnerables en Docker para practicar ciberseguridad.  
-- 🔹 [elrincondelhacker.es](https://elrincondelhacker.es) – Academia online especializada en cursos de ciberseguridad.  
-- 🔹 [bugbountylabs.com](https://bugbountylabs.com) – Plataforma con entornos realistas para entrenar en hacking web.  
-- 🔹 [maalfer.github.io/whoami](https://maalfer.github.io/whoami) – Mi web personal.  
-- 🔹 [nereagonzalez.art](https://nereagonzalez.art) – Portafolio artístico y desarrollo web colaborativo.
+- 🔹 [dockerlabs.es](https://github.com/m4zpan1/DockerLabs_Resolutions/blob/main/Maquina_Injection.md) – Maquina Injection.  
 
 ---
 
