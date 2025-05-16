@@ -31,7 +31,8 @@ Soy estudiante de informática con una fuerte orientación hacia la cibersegurid
 
 ### 🔧 Laboratorios Resueltos
 
-- 🔹 [dockerlabs.es](https://github.com/m4zpan1/DockerLabs_Resolutions/blob/main/Maquina_Injection.md) – Maquina Injection.  
+- 🔹 [dockerlabs.es](https://github.com/m4zpan1/DockerLabs_Resolutions/blob/main/Maquina_Injection.md) – 🧪 Máquina **Injection**
+- 🔹 [dockerlabs.es](https://github.com/m4zpan1/DockerLabs_Resolutions/blob/main/maquina_trust.md) – 🖥️ Máquina **Trust** 
 
 ---
 
