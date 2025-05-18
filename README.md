@@ -60,11 +60,11 @@ Soy estudiante de informática con una fuerte orientación hacia la cibersegurid
 ### 🌐 Contacto y redes
 
 <p align="center">
-  <a href="#" target="_blank" title="GitHub">
+  <a href="https://github.com/m4zpan1" target="_blank" title="GitHub">
     <img src="https://img.icons8.com/ios-glyphs/50/00bfff/github.png" width="40" height="40" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#" target="_blank" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/dan-salazar-24a51532b/" target="_blank" title="LinkedIn">
     <img src="https://img.icons8.com/ios-filled/50/00bfff/linkedin.png" width="40" height="40" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
