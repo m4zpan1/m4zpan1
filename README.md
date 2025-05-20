@@ -32,7 +32,20 @@ Soy estudiante de informática con una fuerte orientación hacia la cibersegurid
 ### 🔧 Laboratorios Resueltos – 🛡️ Red Team
 
 - 🔹 [dockerlabs.es](https://github.com/m4zpan1/DockerLabs_Resolutions/blob/main/Maquina_Injection.md) – 🧪 Máquina **Injection**
-- 🔹 [dockerlabs.es](https://github.com/m4zpan1/DockerLabs_Resolutions/blob/main/maquina_trust.md) – 🖥️ Máquina **Trust** 
+- 🔹 [dockerlabs.es](https://github.com/m4zpan1/DockerLabs_Resolutions/blob/main/maquina_trust.md) – 🖥️ Máquina **Trust**
+- 🔹 [dockerlabs.es](#) – 🖥️ Máquina **BreakMySSH**
+- 🔹 [dockerlabs.es](#) – 🖥️ Máquina **FirstHacking**
+- 🔹 [dockerlabs.es](#) – 🖥️ Máquina **HedgeHog**
+- 🔹 [dockerlabs.es](#) – 🖥️ Máquina **Vacaciones**
+- 🔹 [dockerlabs.es](#) – 🖥️ Máquina **Tproot**
+- 🔹 [dockerlabs.es](#) – 🖥️ Máquina **BorazuwarahCTF**
+- 🔹 [dockerlabs.es](#) – 🖥️ Máquina **Obsession**
+- 🔹 [dockerlabs.es](#) – 🖥️ Máquina **Pequeñas-Mentirosas**
+- 🔹 [dockerlabs.es](#) – 🖥️ Máquina **Psycho**
+- 🔹 [dockerlabs.es](#) – 🖥️ Máquina **Candy**
+- 🔹 [dockerlabs.es](#) – 🖥️ Máquina **Pinguinazo**
+- 🔹 [dockerlabs.es](#) – 🖥️ Máquina **Library**
+- 🔹 [dockerlabs.es](#) – 🖥️ Máquina **ConsoleLog**
 
 
 <br>
