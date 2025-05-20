@@ -35,7 +35,7 @@ Soy estudiante de informática con una fuerte orientación hacia la cibersegurid
 - 🔹 [dockerlabs.es](https://github.com/m4zpan1/DockerLabs_Resolutions/blob/main/maquina_trust.md) – 🖥️ Máquina **Trust** 
 
 
-
+<br><br>
 
 ---
 
@@ -44,7 +44,7 @@ Soy estudiante de informática con una fuerte orientación hacia la cibersegurid
 - 🔹 [dockerlabs.es](https://github.com/m4zpan1/DockerLabs_Resolutions/blob/main/Maquina_Injection.md) – 🔐 Generador de **contraseñas aleatorias**
 - 🔹 [dockerlabs.es](https://github.com/m4zpan1/DockerLabs_Resolutions/blob/main/maquina_trust.md) – 🤖 Generador de **diccionario (serie Mr. Robot)**
 
-
+<br><br>
   
 ---
 
