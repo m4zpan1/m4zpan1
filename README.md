@@ -41,8 +41,8 @@ Soy estudiante de informática con una fuerte orientación hacia la cibersegurid
 
 ### 🏆 Proyectos destacados
 
-- 🔹 [dockerlabs.es](https://github.com/m4zpan1/generador-de-contrase-as-aleatorias-con-python) – 🔐 Generador de **contraseñas aleatorias**
-- 🔹 [dockerlabs.es](https://github.com/m4zpan1/generador-de-contrase-as-aleatorias-con-python) – 🤖 Generador de **diccionario (Inspirada en la serie Mr. Robot)**
+- 🔹 [dockerlabs.es](https://github.com/m4zpan1/PasswordGenerator) – 🔐 Generador de **contraseñas aleatorias**
+- 🔹 [dockerlabs.es](https://github.com/m4zpan1/PasswordGenerator) – 🤖 Generador de **diccionario (Inspirada en la serie Mr. Robot)**
 
 <br>
   
