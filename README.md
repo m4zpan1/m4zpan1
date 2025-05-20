@@ -29,17 +29,17 @@ Soy estudiante de informática con una fuerte orientación hacia la cibersegurid
 
 ---
 
-### 🏆 Proyectos destacados
+### 🔧 Proyectos destacados
 
-- 🔹 [dockerlabs.es](https://github.com/m4zpan1/PasswordGenerator) – 🔐 Generador de **contraseñas aleatorias**
-- 🔹 [dockerlabs.es](https://github.com/m4zpan1/PasswordGenerator) – 🤖 Generador de **diccionario (Inspirada en la serie Mr. Robot)**
-- 🔹 [dockerlabs.es](#) – 💀 **ECHOKILL** herramienta de **simulacion de ataques de denegacion de servicio** en redes LAN
+- 🔹 [m4zpan1.github.io/whoami](https://github.com/m4zpan1/PasswordGenerator) – Generador de **contraseñas aleatorias**
+- 🔹 [m4zpan1.github.io/whoami](https://github.com/m4zpan1/PasswordGenerator) – Generador de **diccionario (Inspirada en la serie Mr. Robot)**
+- 🔹 [m4zpan1.github.io/whoami](#) – **ECHOKILL** herramienta de **simulacion de ataques de denegacion de servicio** en redes LAN
 
 <br>
   
 ---
 
-### 🔧 Laboratorios Resueltos – 🛡️ Red Team
+### 🏆 Laboratorios Resueltos – 🛡️ Red Team
 
 - 🔹 [dockerlabs.es](https://github.com/m4zpan1/DockerLabs_Resolutions/blob/main/Maquina_Injection.md) – 🧪 Máquina **Injection**
 - 🔹 [dockerlabs.es](https://github.com/m4zpan1/DockerLabs_Resolutions/blob/main/maquina_trust.md) – 🖥️ Máquina **Trust**
