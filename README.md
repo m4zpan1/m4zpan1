@@ -36,6 +36,12 @@ Soy estudiante de informática con una fuerte orientación hacia la cibersegurid
 
 ---
 
+### 🌟 Proyectos destacados
+
+- 🔹 [dockerlabs.es](https://github.com/m4zpan1/DockerLabs_Resolutions/blob/main/Maquina_Injection.md) – 🔐 Generador de **contraseñas aleatorias**
+- 🔹 [dockerlabs.es](https://github.com/m4zpan1/DockerLabs_Resolutions/blob/main/maquina_trust.md) – 🤖 Generador de **diccionario (serie Mr. Robot)**
+---
+
 ### 🛠️ Algunas Tecnologías que domino
 
 <p align="center">
