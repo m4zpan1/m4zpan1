@@ -31,9 +31,9 @@ Soy estudiante de informática con una fuerte orientación hacia la cibersegurid
 
 ### 🔧 Proyectos destacados
 
-- 🔹 [m4zpan1/PasswordGenerator](https://github.com/m4zpan1/PasswordGenerator) – Generador de **contraseñas aleatorias**
-- 🔹 [m4zpan1/GeneratorKill](https://github.com/m4zpan1/PasswordGenerator) – Generador de **diccionario (Inspirada en la serie Mr. Robot)**
-- 🔹 [m4zpan1/EchoKill](#) – Herramienta de **simulacion de ataques de denegacion de servicio** en redes LAN
+- 🔹 [PasswordGenerator](https://github.com/m4zpan1/PasswordGenerator) – Generador de **contraseñas aleatorias**
+- 🔹 [GeneratorKill](https://github.com/m4zpan1/PasswordGenerator) – Generador de **diccionario (Inspirada en la serie Mr. Robot)**
+- 🔹 [EchoKill](#) – Herramienta de **simulacion de ataques de denegacion de servicio** en redes LAN
 
 <br>
   
